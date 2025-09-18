@@ -10,10 +10,6 @@ html {
     padding: 20px 50px;
 }
 
-.bold {
-    font-weight: bold;
-}
-
 .header {
     text-align: center;
 }
@@ -50,6 +46,7 @@ html {
 
 .quotes-container p {
     font-style: italic;
+    margin: 0;
 }
 
 .curiosities-container {
